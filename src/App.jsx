@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <div className="card">
-        <button onClick={() => WebApp.showAlert(`re re Hello World! ---- Current count is ${count}`)}>
+        <button onClick={() => WebApp.showAlert(`vot rrr Hello World! ---- Current count is ${count}`)}>
             Show Alert
         </button>
       </div>      
